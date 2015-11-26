@@ -12,5 +12,4 @@
 - javascript-snippets
 - linter
 - minimap
-- term3
 - terminal-panel
